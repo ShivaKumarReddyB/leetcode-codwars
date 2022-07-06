@@ -1,0 +1,20 @@
+{
+  "name": "leetcode-codwars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1480- Running Sum of 1d Array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8977shiva/leetcode-codwars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8977shiva/leetcode-codwars/issues"
+  },
+  "homepage": "https://github.com/8977shiva/leetcode-codwars#readme"
+}

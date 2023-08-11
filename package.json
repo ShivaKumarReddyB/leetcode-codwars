@@ -2,7 +2,7 @@
   "name": "leetcode-codwars",
   "version": "1.0.0",
   "description": "",
-  "main": "1480- Running Sum of 1d Array.js",
+  "main": "Leetcode/1480- Running Sum of 1d Array.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

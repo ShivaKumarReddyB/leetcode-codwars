@@ -12,7 +12,8 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Leetcode/739.-Daily Temperatures.js"
+            "program": "${file}"
+
         }
     ]
 }
